@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hello, I'm dipendra bhat</h1>
+        <p>I am a business studies student and currently studying in South Korea.</p>
+        <p>I enjoy learning web development and exploring beautiful places like zezu island.</p>
+    </div>
+</body>
+</html>
